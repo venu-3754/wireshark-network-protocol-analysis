@@ -27,7 +27,7 @@ The project includes practical analysis of:
 # Architecture
 
 <p align="center">
-<img src="architecture/architecture-diagram.png" width="900">
+<img src="architecture-diagram.png" width="900">
 </p>
 
 ---
