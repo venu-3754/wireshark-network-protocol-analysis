@@ -219,7 +219,7 @@ Protocol Hierarchy provides a summary of all protocols observed during packet ca
 
 ### Conversations
 
-<img src="screenshots/http/06-conversations.png" width="900">
+<img src="screenshots/http/06-http-conversations.png" width="900">
 
 The Conversations window summarizes communication between endpoints.
 
@@ -309,27 +309,33 @@ TCP establishes a reliable connection before application-layer communication beg
 tcp.port == 8000
 ```
 
-### TCP SYN
+### TCP FILTER
 
 <img src="screenshots/tcp/01-tcp-filter.png" width="900">
 
 ---
 
+### TCP SYN
+
+<img src="screenshots/tcp/02-tcp-syn.png" width="900">
+
+---
+
 ### TCP SYN-ACK
 
-<img src="screenshots/tcp/02-tcp-syn-ack.png" width="900">
+<img src="screenshots/tcp/03-tcp-syn-ack.png" width="900">
 
 ---
 
 ### TCP ACK
 
-<img src="screenshots/tcp/03-tcp-ack.png" width="900">
+<img src="screenshots/tcp/04-tcp-ack.png" width="900">
 
 ---
 
-### Follow TCP Stream
+### Follow TCP Three-Way-Handshake
 
-<img src="screenshots/tcp/04-follow-tcp-stream.png" width="900">
+<img src="screenshots/tcp/05-tcp-three-way-handshake.png" width="900">
 
 ---
 
@@ -412,7 +418,7 @@ Through this project I gained practical experience in:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/venu-3754/wireshark-http-credential-analysis.git
+git clone https://github.com/venu-3754/wireshark-network-protocol-analysis.git
 ```
 
 ---
@@ -499,7 +505,7 @@ tcp.port==8000
 
 # Author
 
-**Venu Gopal**
+**SONGA VENUGOPAL**
 
 Cybersecurity Undergraduate
 
